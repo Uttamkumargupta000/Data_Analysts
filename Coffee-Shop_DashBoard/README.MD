@@ -25,7 +25,13 @@ The main objective of this project is to analyze retail sales data to gain actio
 • Intuitive understanding of Order and Sales distribution among categories.
 
 
+<img src="DashBoard_Coffee_Sales.png" alt="DashBoard_of_Coffee_Shop_Sales" width="200"/>
+
+<br>
+
+
 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
+<br>
 •	Discover how do sales vary by day of the week and hour of the day.
 •	Peak time for sales Activity by day and Week.
 •	Total Sales Revenue of each Day and Month.
