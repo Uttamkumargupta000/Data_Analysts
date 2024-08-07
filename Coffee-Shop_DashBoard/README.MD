@@ -25,7 +25,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 • Intuitive understanding of Order and Sales distribution among categories.
 
 
-<img src="DashBoard_Coffee_Sales.png" alt="DashBoard_of_Coffee_Shop_Sales" width="200"/>
+<img src="DashBoard_Coffee_Sales.png" alt="DashBoard_of_Coffee_Shop_Sales" width="800"/>
 
 <br>
 
