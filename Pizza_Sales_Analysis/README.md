@@ -1,5 +1,5 @@
-🍕 Pizza Sales Analysis 📊
-Overview
+# 🍕 Pizza Sales Analysis 📊
+## Overview
 
 Welcome to the Pizza Sales Analysis project! 🍕🎉 This project delves into pizza sales data to uncover insights on sales performance, customer preferences, and popular products. Data analysis is conducted using SQL in MySQL Workbench. 📈
 📂 Files
@@ -9,7 +9,7 @@ Welcome to the Pizza Sales Analysis project! 🍕🎉 This project delves into p
     orders.csv: Includes data on orders with order_id, date, and time.
     order_details.csv: Details each order with order_details_id, order_id, pizza_id, and quantity.
 
-🔍 Analysis
+# 🔍 Analysis
 
 The analysis includes:
 
@@ -17,7 +17,7 @@ The analysis includes:
     SQL queries to extract insights.
     Reports on sales performance, popular pizza types, and trends over time.
 
-🚀 Setup
+# 🚀 Setup
 
     Clone the repository:
 
@@ -28,7 +28,7 @@ The analysis includes:
     Import the CSV files into MySQL Workbench.
     Use the provided SQL queries to perform the analysis.
 
-📝 SQL Queries
+# 📝 SQL Queries
 Example queries used in the analysis:
 
     Total Sales by Pizza Type:
@@ -43,7 +43,7 @@ GROUP BY pt.name;
 
 Monthly Sales Trends:
 
-sql
+ ### sql
 
     SELECT DATE_FORMAT(o.date, '%Y-%m') AS month, SUM(od.quantity * p.price) AS total_sales
     FROM orders o
@@ -51,15 +51,15 @@ sql
     JOIN pizza p ON od.pizza_id = p.pizza_id
     GROUP BY month;
 
-✨ Features
+# ✨ Features
 
     Interactive Reports: Explore various metrics and visualize data trends.
     Comprehensive Analysis: Gain insights into sales performance and customer preferences.
 
-🛠️ Contributing
+# 🛠️ Contributing
 
 Want to contribute? 🎨 Fork the repository and submit a pull request with your changes. We welcome improvements and new ideas!
 
-📧 Contact
+# 📧 Contact
 
-For any questions or feedback, reach out to [uttamkumargupta000@gmail.com]. Let’s talk pizza! 🍕
+For any questions or feedback, reach out to [contact Here](uttamkumargupta000@gmail.com). Let’s talk pizza! 🍕
