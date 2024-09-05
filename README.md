@@ -1,10 +1,8 @@
 # Data_Analysts
 
-<h1> Coffee-Shop-Sales- Analysis </h1>
+## Coffee-Shop-Sales- Analysis 
 
-<h3>Full Project Description</h3> 
-
-[Visit Coffee-Shop-Sales](https://github.com/Uttamkumargupta000/Data_Analysts/tree/main/Coffee-Shop_DashBoard)
+Full Project Description [Visit Coffee-Shop-Sales](https://github.com/Uttamkumargupta000/Data_Analysts/tree/main/Coffee-Shop_DashBoard)
 
 ## Pizza_Sales_Analysis
 
