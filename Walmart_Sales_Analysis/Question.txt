@@ -1,0 +1,14 @@
+1.  Retrieve all columns for sales made in a specific branch (e.g., Branch 'A').
+2. Find the total sales for each product line.
+3. List all sales transactions where the payment method was 'Cash'.
+4.  Calculate the total gross income generated in each city. 
+5. Find the average rating given by customers in each branch. 
+6. Determine the total quantity of each product line sold.
+7. List the top 5 products by unit price. 
+8. Find sales transactions with a gross income greater than 30.
+9.  Retrieve sales transactions that occurred on weekends.
+10.  Calculate the total sales and gross income for each month. 
+11.  Find the number of sales transactions that occurred after 6 PM.
+12.  List the sales transactions that have a higher total than the average total of all transactions. 
+13. Calculate the cumulative gross income for each branch by date. 
+14. Find the total cogs for each customer type in each city.
