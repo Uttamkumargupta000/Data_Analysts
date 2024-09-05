@@ -65,4 +65,4 @@ For any questions or feedback, reach out to [Contact Here](uttamkumargupta000@gm
 
    ## Project
 
-   Full project Available at [Visit Walamart Sales Analysis](https://github.com/Uttamkumargupta000/Data_Analysts/tree/main/Pizza_Sales_Analysis)
+   Full project Available at [Visit Pizza Sales Analysis](https://github.com/Uttamkumargupta000/Data_Analysts/tree/main/Pizza_Sales_Analysis)
