@@ -62,3 +62,7 @@ Want to contribute? 🎨 Fork the repository and submit a pull request with your
 # 📧 Contact
 
 For any questions or feedback, reach out to [Contact Here](uttamkumargupta000@gmail.com). Let’s talk pizza! 🍕
+
+   ## Project
+
+   Full project Available at [Visit Walamart Sales Analysis](https://github.com/Uttamkumargupta000/Data_Analysts/tree/main/Pizza_Sales_Analysis)
